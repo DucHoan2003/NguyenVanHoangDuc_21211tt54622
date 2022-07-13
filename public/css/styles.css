@@ -59,7 +59,10 @@ body {
 
     font-size: 1.5em;
 }
-
+a {
+    color: rgb(221, 216, 216);
+    text-decoration: underline;
+}
 .contact-2 {
     text-align: center;
     border: #fff solid 1px;
